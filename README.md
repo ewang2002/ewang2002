@@ -22,6 +22,9 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 - [ ] Learn a new programming language.
 - [ ] Learn SQL.
 
+### ⚡ Fun Fact(s)
+- I'm Chinese but can't speak Mandarin. :) 
+
 <!--
 | First Header  | Second Header | Second Header | Second Header |
 | ------------- | ------------- | ------------- | ------------- |
