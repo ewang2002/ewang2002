@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey There! 👋
+You've reached my Github profile. This profile contains some of my projects -- projects I work on for fun. 
+
+My name is Edward, a soon-to-be college freshman majoring in Math-Computer Science at UCSD. 
+
+I enjoy programming Discord bots & random applications, browsing Reddit, sleeping during the day, learning both math and computer science, ~~staying up past 3 in the morning,~~ and more. When I'm not working on a program or taking a nap, you'll either find me walking outside, learning how to make food, talking to my high school friends, or -- most importantly -- playing lots of Minecraft. 
+
+### 🔭 Current Projects
+I often program in languages such as TypeScript, Java, and C#. Some of my ongoing projects are below. 
+| Project       | Language      | Technologies  | Description   | Project URL  |
+| ------------- | ------------- | ------------- | ------------- | ------------ |
+| ZeroRaidBot | TypeScript | MongoDB | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 4000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) |
+| Winstreak | Java | Gradle | A console program that keeps you away from tryhards in Hypixel Bedwars! | N/A |
+
+### 🌱 Want to Learn
+- Python
+
+### 🏅 Goals for 2020
+- [ ] Not fail my first quarter classes.
+- [ ] Learn a new programming language.
+- [ ] Learn SQL.
 
 <!--
-**ewang2002/ewang2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| First Header  | Second Header | Second Header | Second Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 -->
