@@ -15,6 +15,7 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 
 ### 🌱 Want to Learn
 - Python
+- HTML
 
 ### 🏅 Goals for 2020
 - [ ] Not fail my first quarter classes.
