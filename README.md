@@ -24,6 +24,7 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 
 ### ⚡ Fun Fact(s)
 - I'm Chinese but can't speak Mandarin. :) 
+- My graphing calculator inspired me to get into programming.
 
 <!--
 | First Header  | Second Header | Second Header | Second Header |
