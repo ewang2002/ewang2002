@@ -11,7 +11,7 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 | Project       | Language/Technologies  | Description   | Project URL  |
 | ------------- | ---------------------- | ------------- | ------------- |
 | ZeroRaidBot | TypeScript, Node.JS, MongoDB | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 5000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) |
-| Winstreak | Java, Gradle | A console program that keeps you away from tryhards in Hypixel Bedwars! | N/A |
+| Winstreak | Java OR C# | A console program that keeps you away from tryhards in Hypixel Bedwars! | N/A |
 
 ### 🌱 Want to Learn
 - Python
