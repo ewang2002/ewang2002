@@ -10,7 +10,7 @@ I enjoy programming Discord bots & random applications for fun. When I'm not wor
 I often program in languages such as TypeScript, Java, and C#. Some of my ongoing projects are below. 
 | Project       | Language/Technologies  | Description   | Project URL  |
 | ------------- | ---------------------- | ------------- | ------------- |
-| ZeroRaidBot | TypeScript, Node.JS, MongoDB | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 5000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) |
+| ZeroRaidBot | TypeScript, Node.JS, MongoDB | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 8000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) |
 | Winstreak | Java, C# (.NET Core) | A console program that keeps you away from tryhards in Hypixel Bedwars! | N/A |
 
 ### 🌱 Want to Learn
