@@ -10,6 +10,7 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 | ------------- | ---------------------- | ------------- | ------------- |
 | ZeroRaidBot | TypeScript, Node.JS, MongoDB | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 8100+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) |
 | Winstreak | Java, C# (.NET Core) | A console program that keeps you away from tryhards in Hypixel Bedwars. | N/A |
+| RealmEye API | C# (.NET Core), ASP.NET | An extensive API that allows you to get data for numerous areas of someone's profile, ranging from the basics to name history. | N/A |
 
 ### 🌱 Want to Learn
 - Python
@@ -28,12 +29,12 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 ```cs
 try 
 { 
-  beProductive();
+  BeProductive();
 }
 catch (TooLazyException) 
 {
   // always hits for no reason :( 
-  goToSleep();
+  GoToSleep();
 }
 ```
 
