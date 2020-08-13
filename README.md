@@ -21,9 +21,8 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 - [ ] Learn a new programming language.
 - [ ] Learn SQL.
 
-### ⚡ Fun Fact(s)
-- I'm Chinese but can't speak Mandarin. :) 
-- My graphing calculator inspired me to get into programming.
+### ⚡ Current Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💤 Life Right Now
 ```cs
