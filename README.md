@@ -12,17 +12,8 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 | Winstreak | Java, C# (.NET Core) | A console program that keeps you away from tryhards in Hypixel Bedwars. | N/A |
 | RealmEye API | C# (.NET Core), ASP.NET | An extensive API that allows you to get data for numerous areas of someone's profile, ranging from the basics to name history. | N/A |
 
-### 🌱 Want to Learn
-- Python
-- HTML
-
-### 🏅 Goals for 2020
-- [ ] Not fail my first quarter classes.
-- [ ] Learn a new programming language.
-- [ ] Learn SQL.
-
 ### ⚡ Current Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002&layout=compact)]
 
 ### 💤 Life Right Now
 ```cs
