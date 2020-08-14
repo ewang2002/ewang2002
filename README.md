@@ -23,6 +23,7 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 <details>
 <summary>Stats.</summary>
 <br>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002&layout=compact)
 </details>
 
@@ -30,6 +31,7 @@ I often program in languages such as TypeScript, Java, and C#. Some of my ongoin
 <details>
 <summary>Explained in a Try/Catch Statement.</summary>
 <br>
+  
 ```cs
 try 
 { 
