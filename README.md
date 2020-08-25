@@ -1,19 +1,5 @@
 ## Hey There! 👋
-<details>
-<summary>About Me.</summary>
-<br>
-My name is Edward, a soon-to-be college freshman majoring in Math-Computer Science at UCSD. I enjoy programming random things for fun; however, in my free time, you'll find me talking to my high school friends, talking a walk outside, or -- most importantly -- playing lots of Minecraft. 
-
-I started programming in my sophomore year of high school. Since then, I've spent countless hours in front of my computer working on different projects and experimenting with different programming languages and technologies. I may not be the best, but I'm willing to learn! 
-</details>
-
-<details>
-<summary>About My Github Profile.</summary>
-<br>
-Welcome to my Github profile! Here, I try to showcase some of my projects -- both big and small. When programming, I live by the following: **Make it work then make it better.** That is, make the program work first; once you know for sure the program works, then improve it.
-
-I try my best to make sure my code has good documentation, is readable, and follows best practices. It might not be the best, but I try to put the time and effort into making sure I know how and why it works. 
-</details>
+My name is Edward, a soon-to-be college freshman majoring in Mathematics-Computer Science at UCSD. I started programming in my sophomore year of high school. Since then, I've spent countless hours in front of my computer working on different projects and experimenting with different programming languages and technologies. I may not be the best, but I'm willing to learn! 
 
 ### 🔭 Current Projects
 <details>
