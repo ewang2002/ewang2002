@@ -10,7 +10,7 @@ My name is Edward, a freshman at UCSD studying Mathematics-Computer Science. I s
   
 I often program in languages such as TypeScript, Java, and C#. Some of my ongoing projects are below. 
 | Project       | Language/Technologies  | Description   | Project URL  | Status | 
-| ------------- | ---------------------- | ------------- | ------------- |
+| ------------- | ---------------------- | ------------- | ------------- | ------------- |
 | ZeroRaidBot | TypeScript, Node.JS, MongoDB | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 8100+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | Ongoing. | 
 | RealmEye API | C# (.NET Core), ASP.NET | An extensive API that allows you to get data for numerous areas of someone's profile, ranging from the basics to name history. | [Here](https://github.com/ewang2002/RealmEye.NET) | Paused. |
 
