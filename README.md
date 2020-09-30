@@ -7,16 +7,14 @@ My name is Edward, a freshman at UCSD studying Mathematics-Computer Science. I s
 <details>
 <summary>Mostly TS, JS, and C#.</summary>
 <br>
-  
 I often program in languages such as TypeScript, Java, and C#, as you can tell.
+  
 | Project       | Language/Technologies  | Description   | Project URL  | Status | 
 | ------------- | ---------------------- | ------------- | ------------- | ------------- |
-| ZeroRaidBot | TypeScript, Node.js, MongoDB, discord.js | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 10000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | 🏃 Ongoing. | 
-| Winstreak.NET | C# (.NET Core) | A simple program that checks a Bedwars lobby for potential tryhards and warns the user beforehand. | Private. | 🏃 Ongoing. |
-| UcsdSignUp | C# (.NET Core), Selenium | A program that automates the class registration process. This program will help you plan your schedule based on past CAPE data and try to sign you up into the classes you want as soon as your appointment time is reached. | Private. | 🏃 Ongoing. |
-| RealmEye API | C# (.NET Core), ASP.NET | An extensive API that allows you to get data for numerous areas of someone's profile, ranging from the basics to name history. | [Here](https://github.com/ewang2002/RealmEye.NET) | ⏸️ Suspended. |
-| UcsdCapeScraper | C# (.NET Core), Selenium | A program that lets you scrape UCSD's CAPE data and puts it in an easy-to-use JSON file. | [Here](https://github.com/ewang2002/UcsdCapeScraper) | ⏸️ Suspended. |
+| ZeroRaidBot | TypeScript, Node.js, MongoDB, discord.js | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 10000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | ⏸️ Suspended. | 
+| Winstreak.NET | C# (.NET Core) | A simple program that checks a Bedwars lobby for potential tryhards and warns the user beforehand. | Private. | ⏸️ Suspended. |
 
+**NOTE:** Because of school starting soon, I will not be able to work on these projects as much as I would have liked to. I'll try my best to work on them but for the time being, consider them "Suspended." 
 </details>
 
 ### 🧠 Want To Learn
