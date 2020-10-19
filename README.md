@@ -11,10 +11,11 @@ I often program in languages such as TypeScript, Java, and C#, as you can tell.
   
 | Project       | Language/Technologies  | Description   | Project URL  | Status | 
 | ------------- | ---------------------- | ------------- | ------------- | ------------- |
-| ZeroRaidBot | TypeScript, Node.js, MongoDB, discord.js | A simple Discord bot that is designed to manage a RotMG Discord server. Currently managing 10000+ members. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | ⏸️ Suspended. | 
-| Winstreak.NET | C# (.NET Core) | A simple program that checks a Bedwars lobby for potential tryhards and warns the user beforehand. | Private. | ⏸️ Suspended. |
+| ZeroRaidBot | TypeScript, Node.js, MongoDB, discord.js | A somewhat advanced Discord bot that is designed to manage a RotMG Discord server. Currently managing 12000+ members across 3 servers. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | 🏃 Ongoing. | 
+| Winstreak.NET | C# (.NET Core) | A simple program that checks a Hypixel Bedwars lobby for potential tryhards and warns the user beforehand. | Private. | 🏃 Ongoing. |
+| RealmEyeSharper | C# (.NET Core) | A library that scrapes various parts of RealmEye. The old project will be deprecated in favor of this project. | Private. | 🏃 Ongoing. |
 
-**NOTE:** Because of school starting soon, I will not be able to work on these projects as much as I would have liked to. I'll try my best to work on them but for the time being, consider them "Suspended." 
+**NOTE:** Because of the amount of homework and studying I'm committing to a weekly basis, I will not be able to work on these projects as much as I would have liked to. I will still continue working on the projects above, but not as often as before. 
 </details>
 
 ### 🧠 Want To Learn
