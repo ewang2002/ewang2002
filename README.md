@@ -13,7 +13,7 @@ I often program in languages such as TypeScript, Java, and C#, as you can tell.
 | ------------- | ---------------------- | ------------- | ------------- | ------------- |
 | ZeroRaidBot | TypeScript, Node.js, MongoDB, discord.js | A somewhat advanced Discord bot that is designed to manage a RotMG Discord server. Currently managing 22500+ members across 4 servers. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | 🏃 Ongoing. | 
 | Winstreak.NET | C# (.NET Core) | A simple program that checks a Hypixel Bedwars lobby for potential tryhards and warns the user beforehand. | Private. | 🏃 Ongoing. |
-| RealmEyeSharper | C# (.NET Core) | A library that scrapes various parts of RealmEye. The old project will be deprecated in favor of this project. | Private. | 🏃 Ongoing. |
+| RealmSharper | C# (.NET Core) | A library that has several utilities designed for RotMG bot developers, including a RealmEye player profile scraper and a /who parser. The old project will be deprecated in favor of this project. | Private. | 🏃 Ongoing. |
 
 **NOTE:** Because of the amount of homework and studying I'm committing to a weekly basis, I will not be able to work on these projects as much as I would have liked to. I will still continue working on the projects above, but not as often as before. 
 </details>
@@ -25,7 +25,7 @@ I often program in languages such as TypeScript, Java, and C#, as you can tell.
 
 **Programming Languages**
 - Python
-- C++ and/or C
+- C++/C/Rust
 
 **Front-End**
 - HTML/CSS
