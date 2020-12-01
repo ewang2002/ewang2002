@@ -11,7 +11,7 @@ I often program in languages such as TypeScript, Java, and C#, as you can tell.
   
 | Project       | Language/Technologies  | Description   | Project URL  | Status | 
 | ------------- | ---------------------- | ------------- | ------------- | ------------- |
-| ZeroRaidBot | TypeScript, Node.js, MongoDB, discord.js | A somewhat advanced Discord bot that is designed to manage a RotMG Discord server. Currently managing 22500+ members across 4 servers. | [Here](https://github.com/DungeoneerExalt/ZeroRaidBot/) | 🏃 Ongoing. | 
+| OneRealm | TypeScript, Node.js, MongoDB, discord.js | A rewrite of [ZeroRaidBot](https://github.com/DungeoneerExalt/ZeroRaidBot/). Designed for Realm of the Mad God servers that require advanced customization. | Private. | 🏃 Ongoing. | 
 | Winstreak.NET | C# (.NET Core) | A simple program that checks a Hypixel Bedwars lobby for potential tryhards and warns the user beforehand. | Private. | 🏃 Ongoing. |
 | RealmSharper | C# (.NET Core) | A library that has several utilities designed for RotMG bot developers, including a RealmEye player profile scraper and a /who parser. The old project will be deprecated in favor of this project. | Private. | 🏃 Ongoing. |
 
