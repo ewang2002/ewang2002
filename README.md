@@ -7,7 +7,10 @@ My name is Edward, a freshman at UCSD studying Mathematics-Computer Science.
 <details>
 <summary>Mostly TS, JS, and C#.</summary>
 <br>
-None, currently. I'm mainly working on whatever I feel like working. 
+  
+| Project Name | Description | Technologies |
+| ------------- | ------------- | ------------- |
+| OneRealm | A rewrite of ZeroRaidBot, designed to be more stable. | TypeScript, Node.js, MongoDB, C#, ASP.NET |
 
 </details>
 
