@@ -16,11 +16,11 @@ There's not really much else for me to say, but feel free to look around! My Git
 
 </details>
 
-### 💤 Life Right Now
+### 💤 Random Stuff
 <details>
-<summary>Explained in a Try/Catch Statement.</summary>
+<summary>Random Stuff.</summary>
 <br>
-  
+
 ```cs
 try 
 { 
@@ -32,6 +32,8 @@ catch (TooLazyException)
   GoToSleep();
 }
 ```
+  
+<img src="https://github.com/ewang2002/ewang2002/blob/master/resources/math_is_hard.png"/>
 </details>
 
 <!--
