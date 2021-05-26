@@ -3,7 +3,7 @@
 ## Hey There! 👋
 My name is Edward, a freshman at UCSD studying Mathematics-Computer Science in the mathematics department.
 
-There's not really much else for me to say, but feel free to look around! My Github profile showcases a subset of many small projects that I have worked on in the past year or so. 
+There's not really much else for me to say, but feel free to look around! My Github profile showcases a subset of many small projects that I have worked on in the past (few) year or so. 
 
 ### 🔭 Current/Planned Projects
 <details>
