@@ -13,7 +13,6 @@ There's not really much else for me to say, but feel free to look around! My Git
 | Project Name | Description | Technologies | Status | 
 | ------------- | ------------- | ------------- | ------------- |
 | OneRealm | A rewrite of ZeroRaidBot, designed to be more stable. | TypeScript, Node.js, MongoDB, C#, ASP.NET | In Progress. |
-| `ical_crafter` | A program that creates an `ical` file given a set of recurring or normal events. | Rust | In Progress. |
 | `winstreak_lite` | A *lite* version of Winstreak designed for Minecraft Bedwars players. It features a subset of features found in the original Winstreak and will be made public. | Rust | Planning. |
 | Agenda | An application that is designed to act as an "agenda" of some sorts. Useful for keeping track of homework assignments, exams, events, and more. | Kotlin, Swift (?), C#, TypeScript, React.js | Planning (Summer Project). |
 
