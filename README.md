@@ -35,19 +35,6 @@ If you need to contact me, please leave an issue in [this repository](https://gi
 
 ### 💤 Random Stuff
 <details>
-<summary>IRL Stuff</summary>
-<br> 
-  
-  I am currently:
-  - Learning the [Rust](https://www.rust-lang.org/) programming language.
-  - Learning a bit of Modern Algebra (Math 103A) in preparation for Math 100A.
-  - Trying to find housing in the San Diego area.
-  - Trying to find software engineering internships for Summer 2022.
-  - Working on a project in a research group. 
-  
-</details>
-
-<details>
 <summary>Random Stuff.</summary>
 <br>
   
@@ -63,8 +50,23 @@ If you need to contact me, please leave an issue in [this repository](https://gi
   }
   ```
 
-  <img src="https://github.com/ewang2002/ewang2002/blob/master/resources/math_is_hard.png"/>
+  <img src="https://github.com/ewang2002/ewang2002/blob/master/resources/math_is_hard.png"/> 
+</details>
+
+<details>
+<summary>IRL Stuff.</summary>
+<br> 
+
+  I am currently:
+  - Learning the [Rust](https://www.rust-lang.org/) programming language.
+  - Learning a bit of Modern Algebra (Math 103A) in preparation for Math 100A.
+  - Trying to find housing in the San Diego area.
+  - Trying to find software engineering internships for Summer 2022.
+  - Working on a project in a research group. 
+  - Working on several other projects (see above). 
   
+  Not much else going on.
+
 </details>
 
 <!--
