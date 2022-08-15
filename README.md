@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" align="right"/>
 
 $$\boxed{\texttt{println!("Hello World! 🙃");}}$$
-My name is Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
+I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
 
 I will be a [CSE tutor/instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for the second half of Summer 2022. I'm also looking for an internship during the school year and for Summer 2023 to complement what I've learned in school and on my projects.
 
@@ -78,8 +78,10 @@ If you are looking for some of my older and/or abandoned projects, check out my 
   | Project Name | Description | Technologies | Started | 
   | ------------- | ------------- | ------------- | ------------- |
   | WebRegScraper | An asynchronous library (wrapper) designed to let users interact with UCSD's WebReg (course enrollment system), an application that uses this library to scrape WebReg for course enrollment data at a constant interval, and a collection of Python scripts created to clean, process, visualize, and analyze this data. | Rust, TypeScript, Python, pandas, seaborn | Jan. 22, 2022 |
+  | a-lang | A toy programming language. Heavy work-in-progress. | Rust | August 12, 2022 |
   | [rubot](https://github.com/AWaffleInc/rubot) | A Discord bot which uses scraped CAPE data, WebReg wrapper API, and cached WebReg course data to give users the ability to get course and instructor information without needing to log into TritonLink. Also contains random utility functions. | TypeScript, Node.js | March 2022 |
   | [ToogaBooga](https://github.com/ToogaInc/ToogaBooga) | (Lead Developer.) A rewrite of ZeroRaidBot, designed to be more stable. This is a Discord bot which uses modern Discord features like interactions, channel threads, and more, while also being very customizable. Additionally, makes use of a [C# ASP.NET application](https://github.com/ToogaInc/RealmEyeSharper) that scrapes RealmEye and returns that data in a JSON format, as well as supporting various raiding utilities like parsing a screenshot for names. | TypeScript, Node.js, MongoDB, C#, ASP.NET | 2021 (Original Started in 2018). |
+  
 
 </details>
 
@@ -91,7 +93,6 @@ If you are looking for some of my older and/or abandoned projects, check out my 
   
   | Proposed Project Name | Description | Estimated Start Time | 
   | --------------------- | ----------- | -------------------- |
-  | Kane | A programming language whose syntax mirrors the one found in Daniel Kane's lecture slides for CSE 101. This "toy" programming language is merely for my own learning experience. | ? |
   | Triton Time | A website which can be used to help students plan for courses at UCSD. | ? |
 
 </details>
