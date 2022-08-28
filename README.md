@@ -3,7 +3,7 @@
 $$\boxed{\texttt{println!("Hello World! 🙃");}}$$
 I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
 
-I will be a [CSE tutor/instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for the second half of Summer 2022. I'm also looking for an internship during the school year and for Summer 2023 to complement what I've learned in school and on my projects.
+I am currently a [CSE tutor](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for the second half of Summer 2022, and will be a CSE tutor for the Fall 2022 quarter. I'm also looking for a Summer 2023 internship to complement what I've learned in school and on my projects.
 
 <details>
 <summary>More Information.</summary>
