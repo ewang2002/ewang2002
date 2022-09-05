@@ -93,7 +93,7 @@ If you are looking for some of my older and/or abandoned projects, check out my 
   
   | Proposed Project Name | Description | Estimated Start Time | 
   | --------------------- | ----------- | -------------------- |
-  | Triton Time | A website which can be used to help students plan for courses at UCSD. | ? |
+  | [Triton Time](https://github.com/0AYU0/SDTime) | A website which can be used to help students plan for courses at UCSD. | ? |
 
 </details>
 
