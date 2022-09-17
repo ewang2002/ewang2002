@@ -3,7 +3,7 @@
 $$\boxed{\texttt{println!("Hello World! 🙃");}}$$
 I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
 
-I will be a [computer science instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for the Fall 2022 quarter.
+I will be an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter.
 
 <details>
 <summary>More Information.</summary>
@@ -13,9 +13,10 @@ I will be a [computer science instructional assistant](https://cse.ucsd.edu/unde
 <summary>👋 Personal.</summary>
 <br> 
 
-  - I enjoy going on long walks and exploring new places (especially national parks).
+  - I enjoy going on long walks and exploring new places, especially national parks!
   - I like playing Minecraft and (occasionally) [Realm of the Mad God](https://www.realmofthemadgod.com/).
   - I also enjoy solving [Advent of Code](https://adventofcode.com/) puzzles. You can find some of my solutions [here](https://github.com/ewang2002/AdventOfCode). 
+  - I'm a fan of breaking things, like my own programs ~~or WebReg~~. 
   - I'm typing up [notes](https://github.com/ewang2002/ClassNotes) in [LaTeX](https://www.latex-project.org/) for some of my classes at UCSD.
   
 ---
@@ -28,8 +29,9 @@ I will be a [computer science instructional assistant](https://cse.ucsd.edu/unde
 <br> 
 
 These are the programming languages I know and use:
-- I primarily use [TypeScript](https://www.typescriptlang.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and [Rust](https://www.rust-lang.org/) in my projects. 
-- I sometimes use Java, JavaScript, and Python in my projects (I usually use Java or JavaScript for Leetcode-style problems).
+- I primarily use [TypeScript](https://www.typescriptlang.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and [Rust](https://www.rust-lang.org/) in my projects. I've used Rust for my more recent projects. 
+- I sometimes use Java, JavaScript, and Python in my projects.
+    - I usually use Java or JavaScript for technical interviews!
 - I have some knowledge of C, C++, ARMv7, and Haskell from coursework (CSE 30, CSE 100, CSE 30, and CSE 130, respectively).
  
 <p align="center">
@@ -78,7 +80,6 @@ If you are looking for some of my older and/or abandoned projects, check out my 
   | Project Name | Description | Technologies | Started | 
   | ------------- | ------------- | ------------- | ------------- |
   | WebRegScraper | An asynchronous library (wrapper) designed to let users interact with UCSD's WebReg (course enrollment system), an application that uses this library to scrape WebReg for course enrollment data at a constant interval, and a collection of Python scripts created to clean, process, visualize, and analyze this data. | Rust, TypeScript, Python, pandas, seaborn | Jan. 22, 2022 |
-  | a-lang | A toy programming language. Heavy work-in-progress. | Rust | August 12, 2022 |
   | [rubot](https://github.com/AWaffleInc/rubot) | A Discord bot which uses scraped CAPE data, WebReg wrapper API, and cached WebReg course data to give users the ability to get course and instructor information without needing to log into TritonLink. Also contains random utility functions. | TypeScript, Node.js | March 2022 |
   | [ToogaBooga](https://github.com/ToogaInc/ToogaBooga) | (Lead Developer.) A rewrite of ZeroRaidBot, designed to be more stable. This is a Discord bot which uses modern Discord features like interactions, channel threads, and more, while also being very customizable. Additionally, makes use of a [C# ASP.NET application](https://github.com/ToogaInc/RealmEyeSharper) that scrapes RealmEye and returns that data in a JSON format, as well as supporting various raiding utilities like parsing a screenshot for names. | TypeScript, Node.js, MongoDB, C#, ASP.NET | 2021 (Original Started in 2018). |
   
@@ -89,11 +90,16 @@ If you are looking for some of my older and/or abandoned projects, check out my 
 <summary>📝 Planned Projects</summary>
 <br>
   
-  The proposed projects listed in the table below are projects that I am __planning__ on working on. In other words, I haven't started working on these projects yet, but I am highly considering working on them when I have the time.
+  The proposed projects listed (in no particular order) in the table below are projects that I am __planning__ on working on. In other words, I haven't started working on these projects yet, but I am highly considering working on them when I have the time.
   
   | Proposed Project Name | Description | Estimated Start Time | 
   | --------------------- | ----------- | -------------------- |
   | [Triton Time](https://github.com/0AYU0/SDTime) | A website which can be used to help students plan for courses at UCSD. | ? |
+  | a-lang | A toy programming language. Started August 12, 2022, but pausing due to other responsibilities. | ? |
+  | lecture-downloader | A script that gives you the ability to download all lectures from a Canvas course page. | ? |
+  | web | A Rust library for undirected or directed graph representation. | ? | 
+  | workday-viewer | A script that lets you view the status of multiple Workday applications (from different accounts) from your terminal | ? | 
+  | sped | An Android app that tells you how fast you're going and how high you are (elevation). | ? |
 
 </details>
 
