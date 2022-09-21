@@ -145,12 +145,13 @@ If you are looking for some of my older and/or abandoned projects, check out my 
 <br> 
 
 Please feel free to contact me for any reason. There are several ways you can do this.
+- **Github:** Click [here](https://github.com/ewang2002/ewang2002/issues/new/choose) to leave an issue. This is usually the ideal way to contact me if you didn't have my email originally.
+  - If you are contacting me about a project, please leave an issue in the relevant project repository. 
 - **Email:**
   - My personal email is my entire Github username, followed by `7`, followed by `@gmail.com`.
   - My UCSD email is the first two letters of my first name, followed by my entire last name, followed by `@ucsd.edu`.
 - **Discord:** Email me for my Discord.
 - **Phone:** Email me for my phone number.
-- **Github:** Leave an issue [here](https://github.com/ewang2002/ewang2002/issues) or in the relevant project repository. This is usually the ideal way to contact me if you didn't have my email originally.
 
 I will usually respond within 24 hours, if not significantly earlier.  
  
