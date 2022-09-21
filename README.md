@@ -14,7 +14,7 @@
 $$\boxed{\texttt{println!("Hello World! 🙃");}}$$
 Hello there! I'm Edward, currently a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
 
-I'm interested in computer science education -- primarily helping students get into the field of computer science -- as well as creating (and breaking) somewhat interesting projects.
+I'm interested in computer science education (e.g., getting more people into computer science!) and have some interest in programming language & compiler design. In terms of software engineering, I'm generally interested in backend development and possibly mobile development (really, anything that doesn't involve front-end development). 
 
 Currently:
 - I will be an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter. This will be my **fifth** time being an instructional assistant.
@@ -31,7 +31,7 @@ Currently:
   - I enjoy going on long walks and exploring new places, especially national parks!
   - I like playing Minecraft and (occasionally) [Realm of the Mad God](https://www.realmofthemadgod.com/).
   - I also enjoy solving [Advent of Code](https://adventofcode.com/) puzzles. You can find some of my solutions [here](https://github.com/ewang2002/AdventOfCode). 
-  - I'm a fan of breaking things, like my own programs ~~or WebReg~~. 
+  - I'm a fan of building and breaking things, like my own programs ~~or WebReg~~. 
   
 ---
 
