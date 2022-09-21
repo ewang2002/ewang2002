@@ -1,9 +1,24 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" align="right"/>
+<table border="0" align="right">
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=ewang2002&ring=DD6304" width="420"/> </td>
+  </tr>
+  <tr>
+    <!-- add empty cell here so we don't get alternating colors on the table -->
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewang2002&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/></td>
+  </tr>
+</table>
+
 
 $$\boxed{\texttt{println!("Hello World! 🙃");}}$$
-I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
+Hello there! I'm Edward, currently a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
 
-I will be an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter.
+I'm interested in computer science education -- primarily helping students get into the field of computer science -- as well as creating (and breaking) somewhat interesting projects.
+
+Currently:
+- I will be an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter. This will be my **fifth** time being an instructional assistant.
+- I will be typing up [notes](https://github.com/ewang2002/ClassNotes) in LaTeX for CSE 158R at UCSD.
 
 <details>
 <summary>More Information.</summary>
@@ -17,7 +32,6 @@ I will be an [instructional assistant](https://cse.ucsd.edu/undergraduate/underg
   - I like playing Minecraft and (occasionally) [Realm of the Mad God](https://www.realmofthemadgod.com/).
   - I also enjoy solving [Advent of Code](https://adventofcode.com/) puzzles. You can find some of my solutions [here](https://github.com/ewang2002/AdventOfCode). 
   - I'm a fan of breaking things, like my own programs ~~or WebReg~~. 
-  - I'm typing up [notes](https://github.com/ewang2002/ClassNotes) in [LaTeX](https://www.latex-project.org/) for some of my classes at UCSD.
   
 ---
 
@@ -135,7 +149,8 @@ Please feel free to contact me for any reason. There are several ways you can do
   - My personal email is my entire Github username, followed by `7`, followed by `@gmail.com`.
   - My UCSD email is the first two letters of my first name, followed by my entire last name, followed by `@ucsd.edu`.
 - **Discord:** Email me for my Discord.
-- **Github:** Otherwise, please leave an issue [here](https://github.com/ewang2002/ewang2002/issues) or in the relevant project repository. 
+- **Phone:** Email me for my phone number.
+- **Github:** Leave an issue [here](https://github.com/ewang2002/ewang2002/issues) or in the relevant project repository. This is usually the ideal way to contact me if you didn't have my email originally.
 
 I will usually respond within 24 hours, if not significantly earlier.  
  
