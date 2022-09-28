@@ -17,8 +17,9 @@ Hello there! I'm Edward, currently a third year undergraduate student at the [Un
 I'm interested in computer science education (e.g., getting more people into computer science!) and have some interest in programming language & compiler design. In terms of software engineering, I'm generally interested in backend development and possibly mobile development (really, anything that doesn't involve front-end development). 
 
 Currently:
-- I will be an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter. This will be my **fifth** time being an instructional assistant.
-- I will be typing up [notes](https://github.com/ewang2002/ClassNotes) in LaTeX for CSE 158R at UCSD.
+- I am an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter. This will be my **fifth** time being an instructional assistant.
+- I am a Fall software engineer intern at [Northrop Grumman](https://northropgrumman.com/).
+- I am in the process of looking for a summer 2023 software engineer internship. 
 
 <details>
 <summary>More Information.</summary>
