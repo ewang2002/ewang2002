@@ -156,8 +156,24 @@ Please feel free to contact me for any reason. There are several ways you can do
 - **Phone:** Email me for my phone number.
 
 I will usually respond within 24 hours, if not significantly earlier.  
- 
+
+---
+
 </details>
+
+
+<details>
+<summary>🤷 Miscellaneous.</summary>
+<br> 
+
+- My profile picture's background was taken from Sequoia National Park, which I took on March 19, 2022.
+- The Current Streaks image was taken from [here](https://streak-stats.demolab.com/demo/).
+- The Most Used Languages image was taken from [here](https://github.com/anuraghazra/github-readme-stats). 
+
+---
+
+</details>
+
 
 </details>
 
