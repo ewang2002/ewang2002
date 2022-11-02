@@ -170,9 +170,9 @@ You are, of course, free to email me. However, I cannot guarantee a response if 
 <br> 
 
 ### Profile Picture
-- The background was taken from Yosemite National Park, which I took on July 17, 2022.
 - Aiden T. drew the blobcat that is in the foreground.
-
+- Ruby designed the profile picture.
+  
 ### README Images
 - The Current Streaks image was taken from [here](https://streak-stats.demolab.com/demo/).
 - The Most Used Languages image was taken from [here](https://github.com/anuraghazra/github-readme-stats). 
