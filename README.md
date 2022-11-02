@@ -173,6 +173,8 @@ You are, of course, free to email me. However, I cannot guarantee a response if 
 - Aiden T. drew the blobcat that is in the foreground.
 - Ruby designed the profile picture.
   
+  ![image](https://user-images.githubusercontent.com/37031713/199368106-d0a20084-adac-43c6-a706-47b7aefac3b5.png)
+  
 ### README Images
 - The Current Streaks image was taken from [here](https://streak-stats.demolab.com/demo/).
 - The Most Used Languages image was taken from [here](https://github.com/anuraghazra/github-readme-stats). 
