@@ -11,15 +11,18 @@
 </table>
 
 
-$$\boxed{\texttt{println!("Hello World! 🙃");}}$$
-Hello there! I'm Edward, currently a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/) in the [Mathematics](https://math.ucsd.edu/) department. 
+$$\boxed{\texttt{println!("Hello World!");}}$$
 
-I'm interested in computer science education (e.g., getting more people into computer science!) and have some interest in programming language & compiler design. In terms of software engineering, I'm generally interested in anything that doesn't involve front-end development.
+Hello there! I'm Edward, currently a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, I'm
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Fall 2022 quarter.
 - a Fall software engineer intern at [Northrop Grumman](https://northropgrumman.com/).
 - a maintainer for the [Pitt CSC Summer 2023 Internship List](https://github.com/pittcsc/Summer2023-Internships) repository.
+
+In the near future, I will be
+- an instructional assistant in the Winter 2023 quarter.
+- a summer software engineer intern at a company.
 
 <details>
 <summary>More Information.</summary>
@@ -30,7 +33,7 @@ Currently, I'm
 <br> 
 
   - I enjoy going on long walks and exploring new places, especially national parks!
-  - I also enjoy taking public transportation (light rails, Metros, and trains are awesome).
+  - I also enjoy taking public transportation (light rails, subways, and trains are awesome).
   - I like playing Minecraft and (occasionally) [Realm of the Mad God](https://www.realmofthemadgod.com/).
   - I also enjoy solving [Advent of Code](https://adventofcode.com/) puzzles. You can find some of my solutions [here](https://github.com/ewang2002/AdventOfCode). 
   - I'm a fan of building and breaking things, like my own programs ~~or WebReg~~. 
