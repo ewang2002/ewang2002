@@ -108,16 +108,14 @@ If you are looking for some of my older and/or abandoned projects, check out my 
 <summary>📝 Planned Projects</summary>
 <br>
   
-  The proposed projects listed (in no particular order) in the table below are projects that I am __planning__ on working on. In other words, I haven't started working on these projects yet, but I am highly considering working on them when I have the time.
+  The proposed projects listed (in no particular order) in the table below are projects that I am _thinking_ about working on. In other words, I haven't started working on these projects yet, but I am highly considering working on them when I have the time.
   
   | Proposed Project Name | Description | Estimated Start Time | 
   | --------------------- | ----------- | -------------------- |
-  | [Triton Time](https://github.com/AWaffleInc/TritonTime) | A website which can be used to help students plan for courses at UCSD. | November 2022 |
+  | Triton Time | A website which can be used to help students plan for courses at UCSD. | ? |
   | style-checker | A simple program that checks if a file meets the defined style requirements. | November 2022 |
-  | a-lang | A toy programming language. Started August 12, 2022, but pausing due to other responsibilities. | ? |
   | lecture-downloader | A script that gives you the ability to download all lectures from a Canvas course page. | ? |
   | web | A Rust library for undirected or directed graph representation. | ? | 
-  | workday-viewer | A script that lets you view the status of multiple Workday applications (from different accounts) from your terminal | ? | 
   | sped | An Android app that tells you how fast you're going and how high you are (elevation). | ? |
 
 </details>
