@@ -28,7 +28,7 @@ Currently, I'm
 <br> 
 
   - I enjoy going on long walks and exploring new places, especially national parks!
-  - I also enjoy taking public transportation (light rails, subways, and trains are awesome).
+  - I also enjoy taking public transportation (buses are great, and light rails, subways, and trains are awesome).
   - I like playing Minecraft and (occasionally) [Realm of the Mad God](https://www.realmofthemadgod.com/).
   - I also enjoy solving [Advent of Code](https://adventofcode.com/) puzzles. You can find some of my solutions [here](https://github.com/ewang2002/AdventOfCode). 
   - I'm a fan of building and breaking things, like my own programs ~~or WebReg~~. 
