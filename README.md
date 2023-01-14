@@ -18,19 +18,19 @@ Hello there! I'm Edward, currently a third year undergraduate student at the [Un
 Currently, I'm
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Winter 2023 quarter.
 - a maintainer for the [Pitt CSC Summer 2023 Internship List](https://github.com/pittcsc/Summer2023-Internships) repository.
+- clowning on Alex. 
 
 <details>
 <summary>More Information.</summary>
 <br> 
 
 <details>
-<summary>👋 Personal.</summary>
+<summary>👋 (Somewhat) Personal.</summary>
 <br> 
 
   - I enjoy going on long walks and exploring new places, especially national parks!
-  - I also enjoy taking public transportation (buses are great, and light rails, subways, and trains are awesome).
+  - I also enjoy taking public transportation.
   - I like playing Minecraft and (occasionally) [Realm of the Mad God](https://www.realmofthemadgod.com/).
-  - I also enjoy solving [Advent of Code](https://adventofcode.com/) puzzles.
   - I'm a fan of building and breaking things, like my own programs ~~or WebReg~~. 
   
 ---
@@ -41,7 +41,7 @@ Currently, I'm
 <summary>📝 Experience.</summary>
 <br> 
 
-Previously, I was a
+Previously, I was
 - a Fall software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/).
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for
   - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022
@@ -59,7 +59,6 @@ Previously, I was a
 These are the programming languages I know and use:
 - I primarily use [TypeScript](https://www.typescriptlang.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and [Rust](https://www.rust-lang.org/) in my projects. I've used Rust for my more recent projects. 
 - I sometimes use Java, JavaScript, and Python in my projects.
-    - I usually use Java or JavaScript for technical interviews!
 - I have some knowledge of C, C++, ARMv7, and Haskell from coursework (CSE 30, CSE 100, CSE 30, and CSE 130, respectively).
  
 <p align="center">
@@ -79,13 +78,6 @@ Aside from programming languages, most of my projects will make use of (some sub
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
-                    
-I tend to host my projects on the following services: [DigitalOcean](https://www.digitalocean.com/), [Google Cloud](https://cloud.google.com/).
-
-<p align="center">
-<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="36" height="36" alt="DigitalOcean" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
 
 ---
 
@@ -102,8 +94,6 @@ Please feel free to contact me for any reason. There are several ways you can do
 - **Email:** Please identify your GitHub account username and how you found my profile.
   - My personal email is my entire Github username, followed by `7`, followed by `@gmail.com`.
   - My UCSD email is the first two letters of my first name, followed by my entire last name, followed by `@ucsd.edu`.
-- **Discord:** _Email_ me for my Discord.
-- **Phone:** _Email_ me for my phone number.
 
 It is preferable that you send a message via GitHub; I will try to acknowledge it within 24 hours if you contact me through GitHub. 
 
@@ -137,6 +127,8 @@ You are, of course, free to email me. However, I cannot guarantee a response if 
 
 
 </details>
+
+<sub>On that note, I'm not sure why people are forking my README repository, but you can always view the <a href="https://raw.githubusercontent.com/ewang2002/ewang2002/main/README.md">raw contents of the README</a>.<sub>
 
 <!--
 | First Header  | Second Header | Second Header | Second Header |
