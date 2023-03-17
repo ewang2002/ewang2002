@@ -11,13 +11,16 @@
 </table>
 
 
-$$\boxed{\bigstar \quad \texttt{println!("Hello World!");} \quad \bigstar}$$
+$$\boxed{\bigstar \quad \texttt{println!("Hey There!");} \quad \bigstar}$$
 
 Hello there! I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, I'm
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Winter 2023 quarter.
 - a maintainer for the [Pitt CSC Summer 2023 Internship List](https://github.com/pittcsc/Summer2023-Internships) repository.
+
+In the near future, I will be
+- an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Spring 2023 quarter.
 
 <details>
 <summary>More Information.</summary>
@@ -30,7 +33,7 @@ Currently, I'm
 Previously, I was
 - a Fall software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/).
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for
-  - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022
+  - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023
   - CSE 11: Summer II 2022
   
 ---
