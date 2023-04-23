@@ -11,7 +11,7 @@
 </table>
 
 
-$$\boxed{\bigstar \quad \texttt{println!("Hey There!");} \quad \bigstar}$$
+$$\boxed{\bigstar \quad \texttt{println!("Alex is a Clown");} \quad \bigstar}$$
 
 Hello there! I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
