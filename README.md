@@ -11,9 +11,9 @@
 </table>
 
 
-$$\boxed{\bigstar \quad \texttt{println!("Alex is a Clown");} \quad \bigstar}$$
+$$\boxed{\bigstar \quad \texttt{println!("Hello, World!");} \quad \bigstar}$$
 
-Hello there! I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) studying [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
+Hello there! I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, I'm
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Spring 2023 quarter.
