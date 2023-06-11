@@ -11,13 +11,13 @@
 </table>
 
 
-$$\boxed{\bigstar \quad \texttt{println!("Hello, World!");} \quad \bigstar}$$
+$$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 
-Hello there! I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
+I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, I'm
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) for an introduction to programming course in the Spring 2023 quarter.
-- a maintainer for the [Pitt CSC Summer 2023 Internship List](https://github.com/pittcsc/Summer2023-Internships) repository.
+- a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository.
 
 <details>
 <summary>More Information.</summary>
@@ -43,10 +43,12 @@ Previously, I was
 <br> 
 
 Please feel free to contact me.
-- **Github:** (Preferred) Click [here](https://github.com/ewang2002/ewang2002/issues/new/choose) to leave an issue. This is usually the ideal way to contact me if you didn't have my email originally. If you are contacting me about a project, please leave an issue in the relevant project repository. 
-- **Email:** Please identify your GitHub account username and how you found my profile.
-  - My personal email is my Github username, followed by `7`, followed by `@gmail.com`.
-  - My UCSD email is the first two letters of my first name, followed by my last name, followed by `@ucsd.edu`.
+- **Github:** This is preferred, especially if you didn't have my email originally.
+  - Click [here](https://github.com/ewang2002/ewang2002/issues/new/choose) to leave an issue. 
+  - If you are contacting me about a project, please leave an issue in the relevant project repository. 
+- **Email:** When emailing, identify your GitHub account username and how you found my profile.
+  - My personal email is `ewang20027+gh`, followed by Gmail's domain.
+  - My university email is `edwang+gh`, followed by my university's domain.
 
 ---
 
