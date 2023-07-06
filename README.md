@@ -13,7 +13,7 @@
 
 $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 
-I'm Edward, a third year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
+I'm Edward, a ~~third~~ fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, I'm a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository.
 
