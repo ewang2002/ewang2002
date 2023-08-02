@@ -15,7 +15,10 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 
 I'm Edward, a ~~third~~ fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
-Currently, I'm a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository.
+Currently, 
+- I'm working on several personal projects relating to UCSD's enrollment system.
+- I'm also a software engineer intern for this summer.
+
 
 <details>
 <summary>More Information.</summary>
@@ -30,7 +33,10 @@ Previously, I was
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for
   - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
   - CSE 11: Summer II 2022
-  
+
+In terms of volunteering, I was
+- a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository, before Simplify took ownership of it.
+
 ---
 
 </details>
