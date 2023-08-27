@@ -16,8 +16,8 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 I'm Edward, a ~~third~~ fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, 
-- I'm working on several personal projects relating to UCSD's enrollment system.
-- I'm also a software engineer intern for this summer.
+- I'm working on several personal projects relating to UCSD's enrollment system and RotMG. 
+- I'm a summer software engineer intern, and will be a software engineer intern this coming Fall 2023 and possibly Winter 2024.
 
 
 <details>
