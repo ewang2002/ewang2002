@@ -16,8 +16,10 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 I'm Edward, a ~~third~~ fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, 
-- I'm working on several personal projects relating to UCSD's enrollment system and RotMG. 
-- I'm a summer software engineer intern, and will be a software engineer intern this coming Fall 2023 and possibly Winter 2024.
+- I'm working on several personal projects relating to UCSD's enrollment system and RotMG.
+
+Later on, 
+- I will be a software engineer intern this coming Fall 2023 and possibly Winter 2024.
 
 
 <details>
@@ -29,7 +31,8 @@ Currently,
 <br> 
 
 Previously, I was
-- a Fall software engineer intern (co-op) at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/).
+- a summer software engineer intern at [Intuit](https://www.intuit.com/) working on TurboTax Online.
+- a Fall software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/) on a number of internal applications.
 - an [instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for
   - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
   - CSE 11: Summer II 2022
