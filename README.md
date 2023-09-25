@@ -17,11 +17,7 @@ I'm Edward, a ~~third~~ fourth year undergraduate student at the [University of 
 
 Currently, 
 - I'm working on several personal projects relating to UCSD's enrollment system. 
-
-Later on, 
-- I will be a software engineer intern this coming Fall 2023 and possibly Winter 2024.
-- I will be taking the Fall 2023 quarter off from UCSD, and will not be on-campus during said quarter.
-
+- I'm a software engineer intern and will be taking the Fall 2023 quarter off from UCSD.
 
 <details>
 <summary>More Information.</summary>
