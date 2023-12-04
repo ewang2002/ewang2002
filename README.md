@@ -13,11 +13,14 @@
 
 $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 
-I'm Edward, a ~~third~~ fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). 
+I'm Edward, a fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, 
 - I'm working on several personal projects relating to UCSD's enrollment system. 
 - I'm a software engineer intern and will be taking the Fall 2023 quarter off from UCSD.
+
+In the near future,
+- I will be an instructional assistant for an introduction to programming course for the Winter 2024 quarter.
 
 <details>
 <summary>More Information.</summary>
