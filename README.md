@@ -16,8 +16,7 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 I'm Edward, a fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, 
-- I'm working on several personal projects relating to UCSD's enrollment system. 
-- I'm a software engineer intern and will be taking the Fall 2023 quarter off from UCSD.
+- I'm relaxing. 
 
 In the near future,
 - I will be an instructional assistant for an introduction to programming course for the Winter 2024 quarter.
@@ -31,8 +30,9 @@ In the near future,
 <br> 
 
 Previously, I was
-- a summer software engineer intern at [Intuit](https://www.intuit.com/) working on TurboTax Online.
-- a Fall software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/) on a number of internal applications.
+- a Fall 2023 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/) on a number of internal applications for the foundry (again).
+- a Summer 2023 software engineer intern at [Intuit](https://www.intuit.com/) working on TurboTax Online.
+- a Fall 2022 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/) on a number of internal applications for the foundry.
 - an [CSE instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for
   - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
   - CSE 11: Summer II 2022
