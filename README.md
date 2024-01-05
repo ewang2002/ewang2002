@@ -16,10 +16,7 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 I'm Edward, a fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, 
-- I'm relaxing. 
-
-In the near future,
-- I will be an instructional assistant for an introduction to programming course for the Winter 2024 quarter.
+- I am an instructional assistant for an introduction to programming course for the Winter 2024 quarter.
 
 <details>
 <summary>More Information.</summary>
