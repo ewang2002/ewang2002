@@ -28,11 +28,12 @@ Currently,
 
 Previously, I was
 - a Fall 2023 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/) on a number of internal applications for the foundry (again).
-- a Summer 2023 software engineer intern at [Intuit](https://www.intuit.com/) working on TurboTax Online.
+- a Summer 2023 software engineer intern at [Intuit](https://www.intuit.com/) working on the frontend part of the new deduplication capability, and enhancements to the completecheck page, for TurboTax Online.
 - a Fall 2022 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working at the [Advanced Technology Lab (ATL)](https://www.northropgrumman.com/what-we-do/microelectronics-advanced-technology-lab/) on a number of internal applications for the foundry.
 - an [CSE instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for
-  - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
+  - CSE 8B: Fall 2021, Winter 2022, Spring 2022, Fall 2022, Spring 2023
   - CSE 11: Summer II 2022
+  - CSE 8B/11: Winter 2023, Winter 2024
 
 In terms of volunteering, I was
 - a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository, before Simplify took ownership of it.
@@ -46,17 +47,21 @@ In terms of volunteering, I was
 <summary>📧 Contacting Me.</summary>
 <br> 
 
-Feel free to contact me for anything. I try my best to respond within 2 days, although I usually respond much faster than that. Generally, if you're affiliated with UCSD, know me in some way, or otherwise need to contact me in private, please email me. Otherwise, please use GitHub to contact me. These are not hard guidelines, though; I'm pretty much indifferent. 
+Feel free to contact me if you have any questions. 
+
+### GitHub
+If you have a question that involves any of my projects, or just have a question in general, feel free to use GitHub. Keep in mind that this form of communication is not private.
+  - Click [here](https://github.com/ewang2002/ewang2002/issues/new/choose) to leave an issue. 
+  - If you are contacting me about a project, please leave an issue in the relevant project repository.
+
+I'll generally try to respond within 3 days for active projects, and 10 days for inactive projects.
 
 ### Email 
 When emailing, please identify your GitHub account username and how you found my profile.
   - My personal email is `ewang20027+gh`, followed by Gmail's domain.
   - My university email is `edwang+gh`, followed by my university's domain.
 
-### GitHub
-If you have a question that involves any of my projects, or just have a question in general, feel free to use GitHub. Keep in mind that this form of communication is not private.
-  - Click [here](https://github.com/ewang2002/ewang2002/issues/new/choose) to leave an issue. 
-  - If you are contacting me about a project, please leave an issue in the relevant project repository.
+I'll generally try to respond within 3 days. If you do not receive a response after 3 days, feel free to send me another email -- it's possible I saw your email but forgot to reply. 
 
 ### Discord
 Please email me for my Discord username.
