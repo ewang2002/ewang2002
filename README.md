@@ -16,7 +16,7 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 I'm Edward, a fourth year undergraduate student at the [University of California San Diego](http://ucsd.edu/) majoring in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/).
 
 Currently, 
-- I am an instructional assistant for an introduction to programming course for the Winter 2024 quarter.
+- I'm chilling.
 
 <details>
 <summary>More Information.</summary>
@@ -54,14 +54,14 @@ If you have a question that involves any of my projects, or just have a question
   - Click [here](https://github.com/ewang2002/ewang2002/issues/new/choose) to leave an issue. 
   - If you are contacting me about a project, please leave an issue in the relevant project repository.
 
-I'll generally try to respond within 3 days for active projects, and 10 days for inactive projects.
+I'll generally try to respond within 5 days for active projects, and 10 days for inactive projects.
 
 ### Email 
 When emailing, please identify your GitHub account username and how you found my profile.
   - My personal email is `ewang20027+gh`, followed by Gmail's domain.
   - My university email is `edwang+gh`, followed by my university's domain.
 
-I'll generally try to respond within 3 days. If you do not receive a response after 3 days, feel free to send me another email -- it's possible I saw your email but forgot to reply. 
+I'll generally try to respond within 5 days. If you do not receive a response after 5 days, feel free to send me another email -- it's possible I saw your email but forgot to reply. 
 
 ### Discord
 Please email me for my Discord username.
