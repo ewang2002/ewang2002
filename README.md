@@ -18,11 +18,10 @@ I'm Edward. I recently graduated from the [University of California San Diego](h
 Currently, 
 - I'm doing some volunteer work for an introduction to programming course at UCSD.
 - I'm traveling to various [national parks](https://www.nps.gov/index.htm) and other cool nature-related places, with tentative plans to travel internationally again.
-- I'm learning how to use a camera for fun. 
 - I'm currently reworking [Tooga](https://github.com/ToogaInc/ToogaBooga), an open-source Discord bot designed for Realm of the Mad God raid servers.
 
 > [!IMPORTANT]
-> Most of my projects are not on my profile; rather, they have been grouped by GitHub organizations. Most of my major projects are in the [UCSD Historical Enrollment Data repository](https://github.com/UCSD-Historical-Enrollment-Data) or the [Toogainc repository](https://github.com/ToogaInc). Some of my older, less developed projects and test code can be found in my [sandbox organization](https://github.com/ewang2002-sandbox).  
+> Most of my projects are not on my profile; rather, they have been grouped by GitHub organizations. Most of my major projects are in the [UCSD Historical Enrollment Data organization](https://github.com/UCSD-Historical-Enrollment-Data) or the [Toogainc organization](https://github.com/ToogaInc). Some of my older, less developed projects and test code can be found in my [sandbox organization](https://github.com/ewang2002-sandbox).  
 
 <details>
 <summary>More Information.</summary>
