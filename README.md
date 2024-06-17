@@ -16,9 +16,7 @@ $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 I'm Edward. I recently graduated from the [University of California San Diego](http://ucsd.edu/) with a bachelors in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I'll be starting full-time work later this year as a software engineer. 
 
 Currently, 
-- I'm doing some volunteer work for an introduction to programming course at UCSD.
-- I'm traveling to various [national parks](https://www.nps.gov/index.htm) and other cool nature-related places, with tentative plans to travel internationally again.
-- I'm currently reworking [Tooga](https://github.com/ToogaInc/ToogaBooga), an open-source Discord bot designed for Realm of the Mad God raid servers.
+- I'm chilling.
 
 <details>
 <summary>More Information.</summary>
