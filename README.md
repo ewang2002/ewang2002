@@ -13,7 +13,7 @@
 
 $$\boxed{\bigstar \quad \texttt{println!("Hello ✧ World!");} \quad \bigstar}$$
 
-I'm Edward. I recently graduated from the [University of California San Diego](http://ucsd.edu/) with a bachelors in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I'll be starting full-time work later this year as a software engineer. 
+I'm Edward. I recently graduated from the [University of California San Diego](http://ucsd.edu/) with a bachelors in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I'm currently a full-time software engineer at [Northrop Grumman](https://www.northropgrumman.com/).
 
 Currently, 
 - I'm chilling.
