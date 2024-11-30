@@ -16,7 +16,10 @@ $$\bigstar \quad {\color{DarkOrchid}{\texttt{println!}}}({\color{CornflowerBlue}
 I'm Edward. I recently graduated from the [University of California San Diego](http://ucsd.edu/) with a bachelors in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I'm currently a full-time software engineer at [Northrop Grumman](https://www.northropgrumman.com/).
 
 Currently, 
-- I'm working.
+- I'm on a train or bus, or
+- I'm getting lost in nature, or
+- I'm working, or
+- I'm bullying @mr4tt.
 
 As a heads up, most of my personal projects during my time at UCSD can be found in the [UCSD Historical Enrollment Data](https://github.com/UCSD-Historical-Enrollment-Data) and [Tooga Inc.](https://github.com/ToogaInc) organizations, with the projects in the first organization being maintained by current UCSD students. You might also find some of my other projects (probably abandoned ones) in my other organizations. 
 
