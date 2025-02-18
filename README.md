@@ -37,7 +37,7 @@ Previously, I was
 - a Fall 2023 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working on a number of internal applications (again). 
 - a Summer 2023 software engineer intern at [Intuit](https://www.intuit.com/) working on the frontend part of the new deduplication capability, and enhancements to the completecheck page, for TurboTax Online.
 - a Fall 2022 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working on a number of internal applications.
-- an [CSE instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for 8 quarters, primarily for CSE 8B and CSE 11.
+- a [CSE instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for 8 quarters, primarily for CSE 8B and CSE 11.
 
 In terms of volunteering, I was
 - a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository, before Simplify took ownership of it.
