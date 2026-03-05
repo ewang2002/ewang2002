@@ -13,7 +13,7 @@
 
 $$\bigstar \quad {\color{DarkOrchid}{\texttt{println!}}}({\color{CornflowerBlue}{\texttt{"Hello ✧ World!"}}}); \quad \bigstar$$
 
-I'm Edward. I recently graduated from the [University of California San Diego](http://ucsd.edu/) with a bachelors in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I'm currently a full-time software engineer at [Northrop Grumman](https://www.northropgrumman.com/).
+I'm Edward. I recently graduated from the [University of California San Diego](http://ucsd.edu/) with a bachelors in [Mathematics & Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s/). I'm currently a full-time software engineer at [Amazon Leo](https://leo.amazon.com/).
 
 Currently, 
 - I'm on a train or bus, or
@@ -28,24 +28,6 @@ As a heads up, most of my personal projects during my time at UCSD can be found 
 <br> 
 
 _Note: I've recreated this repository on November 26, 2024 to clean up some stuff._
-  
-<details>
-<summary>📝 Experience.</summary>
-<br> 
-
-Previously, I was
-- a Fall 2023 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working on a number of internal applications (again). 
-- a Summer 2023 software engineer intern at [Intuit](https://www.intuit.com/) working on the frontend part of the new deduplication capability, and enhancements to the completecheck page, for TurboTax Online.
-- a Fall 2022 software engineer co-op at [Northrop Grumman](https://northropgrumman.com/) working on a number of internal applications.
-- a [CSE instructional assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors) at UCSD for 8 quarters, primarily for CSE 8B and CSE 11.
-
-In terms of volunteering, I was
-- a maintainer for the [Pitt CSC Summer 2024 Internship List](https://github.com/pittcsc/Summer2024-Internships) repository, before Simplify took ownership of it.
-
----
-
-</details>
-
 
 <details>
 <summary>📧 Contacting Me.</summary>
